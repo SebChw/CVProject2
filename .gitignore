@@ -1,4 +1,5 @@
 data
 *.zip*
-*.tar
-caltech-101
+*.tar*
+caltech-
+imports*
